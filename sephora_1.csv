@@ -1,0 +1,61 @@
+	ID	product_name	review_star	review_count	price	img_url
+0	0	Drunk Elephant Protini™ Polypeptide Moisturizer	4 stars	5K	$22.00 - $98.00	https://www.sephora.com/productimages/sku/s2025633-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+1	1	Dr. Jart+ Cicapair™ Tiger Grass Color Correcting Treatment SPF 30	4 stars	3.2K	$18.00 - $52.00	https://www.sephora.com/productimages/sku/s1855709-main-zoom.jpg?imwidth=162
+2	2	Tatcha The Dewy Skin Cream Plumping & Hydrating Moisturizer	4 stars	1.9K	$20.00 - $80.00	https://www.sephora.com/productimages/sku/s2181006-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+3	3	Tatcha The Water Cream Oil-Free Pore Minimizing Moisturizer	4 stars	3.5K	$20.00 - $68.00	https://www.sephora.com/productimages/sku/s1932920-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+4	4	CLINIQUE Moisture Surge 72-Hour Auto-Replenishing Hydrator	4.5 stars	1.3K	$12.00 - $54.00	https://www.sephora.com/productimages/sku/s2019461-main-zoom.jpg?imwidth=162
+5	5	JLo Beauty That Blockbuster Wonder Cream with Hyaluronic Acid	4.5 stars	228	$58.00	https://www.sephora.com/productimages/sku/s2418820-main-zoom.jpg?imwidth=162
+6	6	Skinfix Barrier+ Triple Lipid-Peptide Face Cream	4.5 stars	669	$50.00	https://www.sephora.com/productimages/sku/s2215945-main-zoom.jpg?pb=2020-03-allure-clean-2019&imwidth=162
+7	7	Youth To The People Superberry Hydrate + Glow Dream Mask with Vitamin C	4.5 stars	1.5K	$15.00 - $48.00	https://www.sephora.com/productimages/sku/s2180941-main-zoom.jpg?pb=2020-03-allure-clean-2019&imwidth=162
+8	8	La Mer Crème de la Mer Moisturizer	4 stars	714	$95.00 - $345.00	https://www.sephora.com/productimages/sku/s1932201-main-zoom.jpg?imwidth=162
+9	9	The Ordinary Natural Moisturizing Factors + HA	4 stars	1.3K	$5.80 - $7.70	https://www.sephora.com/productimages/sku/s2031425-main-zoom.jpg?imwidth=162
+10	10	Kiehl's Since 1851 Ultra Facial Cream	4.5 stars	1.2K	$22.00 - $55.00	https://www.sephora.com/productimages/sku/s2172526-main-zoom.jpg?imwidth=162
+11	11	belif The True Cream Aqua Bomb	4.5 stars	5.4K	$22.00 - $62.00	https://www.sephora.com/productimages/sku/s1686427-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+12	12	Drunk Elephant Lala Retro™ Whipped Moisturizer with Ceramides	4 stars	1.4K	$60.00	https://www.sephora.com/productimages/sku/s2233849-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+13	13	IT Cosmetics CC+ Cream with SPF 50+	4 stars	3.9K	$15.50 - $39.50	https://www.sephora.com/productimages/sku/s1868157-main-zoom.jpg?imwidth=162
+14	14	fresh Lotus Anti-Aging Night Moisturizer	4.5 stars	1.5K	$20.00 - $52.00	https://www.sephora.com/productimages/sku/s2175560-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+15	15	Drunk Elephant Virgin Marula Luxury  Face Oil	4.5 stars	1.5K	$40.00 - $72.00	https://www.sephora.com/productimages/sku/s1679315-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+16	16	belif The True Cream Moisturizing Bomb	4.5 stars	4K	$22.00 - $62.00	https://www.sephora.com/productimages/sku/s1686419-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+17	17	JLo Beauty That Big Screen Moisturizer with Broad Spectrum SPF 30	4.5 stars	271	$54.00	https://www.sephora.com/productimages/sku/s2418812-main-zoom.jpg?imwidth=162
+18	18	SK-II Facial Treatment Essence (Pitera Essence)	4 stars	1K	$99.00 - $299.00	https://www.sephora.com/productimages/sku/s1850346-main-zoom.jpg?imwidth=162
+19	19	Summer Fridays Cloud Dew Oil-Free Gel Cream Moisturizer	4.5 stars	73	$42.00	https://www.sephora.com/productimages/sku/s2412856-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+20	20	First Aid Beauty Ultra Repair® Cream Intense Hydration	4.5 stars	7K	$16.00 - $36.00	https://www.sephora.com/productimages/sku/s1309590-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+21	21	Youth To The People Adaptogen Deep Moisture Cream with Ashwagandha + Reishi	4.5 stars	1.7K	$18.00 - $58.00	https://www.sephora.com/productimages/sku/s2088029-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+22	22	bareMinerals COMPLEXION RESCUE™ Tinted Moisturizer with Hyaluronic Acid and Mineral SPF 30	4 stars	3.6K	$33.00	https://www.sephora.com/productimages/sku/s2176972-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+23	23	FENTY SKIN Hydra Vizor Invisible Moisturizer Broad Spectrum SPF 30 Sunscreen	4.5 stars	56	$30.00 - $35.00	https://www.sephora.com/productimages/sku/s2418879-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+24	24	fresh Rose & Hyaluronic Acid Deep Hydration Moisturizer	4 stars	1.6K	$15.00 - $72.00	https://www.sephora.com/productimages/sku/s1788397-main-zoom.jpg?imwidth=162
+25	25	The Ordinary 100% Organic Cold-Pressed Rose Hip Seed Oil	4.5 stars	1.2K	$9.80	https://www.sephora.com/productimages/sku/s2031417-main-zoom.jpg?imwidth=162
+26	26	Biossance Squalane + Vitamin C Rose Oil	4.5 stars	1.2K	$72.00	https://www.sephora.com/productimages/sku/s2382166-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+27	27	SUNDAY RILEY Luna Retinol Sleeping Night Oil	4 stars	2.3K	$55.00 - $105.00	https://www.sephora.com/productimages/sku/s1681881-main-zoom.jpg?imwidth=162
+28	28	Tatcha The Essence Plumping Skin Softener	4.5 stars	1.3K	$95.00	https://www.sephora.com/productimages/sku/s1890904-main-zoom.jpg?pb=allure-best-2020&imwidth=162
+29	29	Bobbi Brown Vitamin Enriched Face Base Priming Moisturizer	4.5 stars	1.7K	$20.00 - $90.00	https://www.sephora.com/productimages/sku/s1292820-main-zoom.jpg?imwidth=162
+30	30	La Mer The Moisturizing Soft Cream	4 stars	267	$95.00 - $345.00	https://www.sephora.com/productimages/sku/s1932235-main-zoom.jpg?imwidth=162
+31	31	Glow Recipe Watermelon Glow PHA +BHA Pore-Tight Toner	4.5 stars	1.9K	$15.00 - $34.00	https://www.sephora.com/productimages/sku/s2348431-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+32	32	fresh Lotus Anti- Aging Daily Moisturizer	4.5 stars	944	$20.00 - $50.00	https://www.sephora.com/productimages/sku/s2316800-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+33	33	Glow Recipe Avocado Melt Retinol Eye Sleeping Mask	4 stars	1.5K	$42.00	https://www.sephora.com/productimages/sku/s2266708-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+34	34	Charlotte Tilbury Magic Cream Moisturizer	4 stars	1.3K	$29.00 - $100.00	https://www.sephora.com/productimages/sku/s2117109-main-zoom.jpg?imwidth=162
+35	35	Farmacy Honey Halo Ultra-Hydrating Ceramide Moisturizer	4.5 stars	423	$45.00	https://www.sephora.com/productimages/sku/s2369957-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+36	36	OLEHENRIKSEN C-Rush™ Vitamin C Gel Moisturizer	4.5 stars	2.8K	$46.00	https://www.sephora.com/productimages/sku/s2071751-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+37	37	LANEIGE Water Sleeping Mask	4 stars	2.7K	$25.00	https://www.sephora.com/productimages/sku/s1966241-main-zoom.jpg?pb=2020-03-allure-best-2017&imwidth=162
+38	38	FENTY SKIN Instant Reset Overnight Gel-Cream	4 stars	40	$36.00 - $40.00	https://www.sephora.com/productimages/sku/s2418903-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+39	39	Kiehl's Since 1851 Ultra Facial Cream	4.5 stars	164	$22.00	https://www.sephora.com/productimages/sku/s2172542-main-zoom.jpg?imwidth=162
+40	40	Farmacy HONEYMOON GLOW AHA Resurfacing Night Serum with Hydrating Honey + Gentle Flower Acids	4.5 stars	1.6K	$58.00	https://www.sephora.com/productimages/sku/s2138378-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+41	41	CLINIQUE Dramatically Different Moisturizing Lotion+	4 stars	2K	$5.50 - $41.00	https://www.sephora.com/productimages/sku/s1538354-main-zoom.jpg?imwidth=162
+42	42	Youth To The People Superfood Air-Whip Moisturizer with Hyaluronic Acid	4 stars	1.3K	$48.00	https://www.sephora.com/productimages/sku/s1863604-main-zoom.jpg?pb=allure-best-2020&imwidth=162
+43	43	Dr. Jart+ Ceramidin™ Cream	4.5 stars	1.7K	$48.00 - $69.00	https://www.sephora.com/productimages/sku/s2077840-main-zoom.jpg?imwidth=162
+44	44	Glow Recipe Watermelon + AHA Glow Sleeping Mask	4 stars	2.5K	$22.00 - $45.00	https://www.sephora.com/productimages/sku/s1955764-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+45	45	LANEIGE Radian-C Cream with Vitamin C	5 stars	340	$35.00	https://www.sephora.com/productimages/sku/s2406841-main-zoom.jpg?imwidth=162
+46	46	First Aid Beauty Hello FAB Coconut Water Cream	4 stars	892	$34.00	https://www.sephora.com/productimages/sku/s2020501-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+47	47	First Aid Beauty Hello FAB Coconut Skin Smoothie Priming Moisturizer	4 stars	1.7K	$30.00	https://www.sephora.com/productimages/sku/s1892488-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+48	48	Biossance Squalane + Omega Repair Cream	4 stars	725	$58.00	https://www.sephora.com/productimages/sku/s2105856-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+49	49	IT Cosmetics CC+ Cream Oil-Free Matte with SPF 40	4 stars	1.3K	$15.50 - $39.50	https://www.sephora.com/productimages/sku/s2088276-main-zoom.jpg?imwidth=162
+50	50	Drunk Elephant F-Balm™ Electrolyte Waterfacial Mask	4 stars	981	$18.00 - $52.00	https://www.sephora.com/productimages/sku/s2313005-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+51	51	Josie Maran 100 percent Pure Argan Oil	4.5 stars	7.7K	$17.00 - $96.00	https://www.sephora.com/productimages/sku/s1121797-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+52	52	LANEIGE Water Bank Moisture Cream	4 stars	479	$38.00	https://www.sephora.com/productimages/sku/s2258770-main-zoom.jpg?imwidth=162
+53	53	Kiehl's Since 1851 Midnight Recovery Concentrate	4 stars	900	$29.00 - $125.00	https://www.sephora.com/productimages/sku/s1988732-main-zoom.jpg?imwidth=162
+54	54	Drunk Elephant Virgin Marula Luxury  Face Oil Mini	4 stars	196	$40.00	https://www.sephora.com/productimages/sku/s2015378-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+55	55	OLEHENRIKSEN Goodnight Glow Retin-ALT Sleeping Crème	4 stars	467	$55.00	https://www.sephora.com/productimages/sku/s2106078-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+56	56	SUNDAY RILEY U.F.O. Ultra-Clarifying Face Oil	4 stars	2.1K	$40.00 - $80.00	https://www.sephora.com/productimages/sku/s1842251-main-zoom.jpg?imwidth=162
+57	57	Youth To The People Superberry Hydrate + Glow Dream Oil	4.5 stars	853	$44.00	https://www.sephora.com/productimages/sku/s2067916-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
+58	58	IT Cosmetics Confidence in a Cream Hydrating Moisturizer	4.5 stars	1.2K	$17.00 - $70.00	https://www.sephora.com/productimages/sku/s1868256-main-zoom.jpg?imwidth=162
+59	59	fresh Kombucha Antioxidant Facial Treatment Essence	4.5 stars	1.3K	$35.00 - $104.00	https://www.sephora.com/productimages/sku/s2044949-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=162
